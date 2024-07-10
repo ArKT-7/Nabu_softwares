@@ -1,6 +1,6 @@
-# Nabu software win
+# Nabu softwares
 
-Welcome to Nabu_software_win! This repository is dedicated to simple sofwares for Windows on Nabu (Xiaomi Pad 5) devices that simplify many things easily.
+Welcome to Nabu_softwares! This repository is dedicated to simple sofwaress for Windows on Nabu or windows installation on nabu (Xiaomi Pad 5) devices that simplify many things easily.
 
 ## How to Use
 
