@@ -4,7 +4,9 @@ Welcome to Nabu_software_win! This repository is dedicated to simple sofwares fo
 
 ## How to Use
 
-To use the software, simply navigate to the Releases section of this repository, download the softwares you need, and follow the instructions provided in each software.
+To use the software, simply downlaod from below, and follow the instructions provided in each software.
+
+
 
 ## Contact
 
