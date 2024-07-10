@@ -8,9 +8,9 @@ To use the software, simply downlaod from below, and follow the instructions pro
 
 ## listed software
 
-- [1. Nabu Drive Letter assigner]([https://github.com/ArKT-7/Nabu_software_win/raw/main/Nabu_Letter_Assigner_2.0_by_ArKT.exe])
+- [1. Nabu Drive Letter assigner](https://github.com/ArKT-7/Nabu_software_win/raw/main/Nabu_Letter_Assigner_2.0_by_ArKT.exe)
 
-
+- [Official_guide](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5)
 
 ## Contact
 
