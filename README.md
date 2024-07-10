@@ -1,6 +1,6 @@
 # Nabu softwares
 
-Welcome to Nabu_softwares! This repository is dedicated to simple sofwaress for Windows on Nabu or windows installation on nabu (Xiaomi Pad 5) devices that simplify many things easily.
+Welcome to Nabu_softwares! This repository is dedicated to simple sofwares for Windows on Nabu or windows installation on nabu (Xiaomi Pad 5) devices that simplify many things easily.
 
 ## How to Use
 
@@ -9,6 +9,8 @@ To use the software, simply downlaod from below, and follow the instructions pro
 ## listed software
 
 - [1. Nabu Drive Letter assigner](https://github.com/ArKT-7/Nabu_software_win/raw/main/Nabu_Letter_Assigner_2.0_by_ArKT.exe)
+  
+- [2. Auto windows installer on Nabu](https://github.com/ArKT-7/won-deployer)
 
 
 ## Contact
