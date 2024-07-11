@@ -13,6 +13,8 @@ To use the software, simply downlaod from below, and follow the instructions pro
   
 - [3. Auto windows installer on Nabu](https://github.com/ArKT-7/won-deployer)
 
+- [4. Official Guide](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5)
+
 
 ## Contact
 
