@@ -9,8 +9,9 @@ To use the software, simply downlaod from below, and follow the instructions pro
 ## listed software
 
 - [1. Nabu Drive Letter assigner](https://github.com/ArKT-7/Nabu_software_win/raw/main/Nabu_Letter_Assigner_2.0_by_ArKT.exe)
+- [2. Screen Rotater](https://github.com/ArKT-7/Nabu_software_win/raw/main/Screen_rotater_by_ArKT.exe))
   
-- [2. Auto windows installer on Nabu](https://github.com/ArKT-7/won-deployer)
+- [3. Auto windows installer on Nabu](https://github.com/ArKT-7/won-deployer)
 
 
 ## Contact
