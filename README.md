@@ -12,8 +12,10 @@ To use the software, simply downlaod from below, and follow the instructions pro
 - [2. Screen Rotater](https://github.com/ArKT-7/Nabu_software_win/raw/main/Screen_rotater_by_ArKT.exe)
   
 - [3. Auto windows installer on Nabu](https://github.com/ArKT-7/won-deployer)
+- 
+## Important Links
 
-- [4. Official Guide](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5)
+- [1. Official Guide](https://github.com/erdilS/Port-Windows-11-Xiaomi-Pad-5)
 
 
 ## Contact
